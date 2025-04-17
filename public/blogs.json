@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with HTML5",
+    "cover_img": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/10/059333693b7291a55a5bcaf429b21463.jpg",
+    "author": {
+      "name": "John Doe",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_R_vlnUz9UhylMPCccagw4dMqhbs4UMPAA&s"
+    },
+    "description": "Learn the basics of HTML5 and how to structure your web pages effectively.",
+    "publish_date": "2023-10-01",
+    "category": "HTML"
+  },
+  {
+    "id": 2,
+    "title": "Mastering CSS Grid Layout",
+    "cover_img": "https://miro.medium.com/v2/resize:fit:3608/0*og90_m1gsg9iOY7i.png",
+    "author": {
+      "name": "Jane Smith",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv-g3me6PZ5k2nb3HflJwnloMakJnOhqHHjQ&s"
+    },
+    "description": "A comprehensive guide to creating responsive layouts using CSS Grid.",
+    "publish_date": "2023-10-05",
+    "category": "CSS"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript ES6 Features You Should Know",
+    "cover_img": "https://miro.medium.com/v2/resize:fit:1400/1*sLzhBnQM--_-NfC8xiiEiA.png",
+    "author": {
+      "name": "Alice Johnson",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkOxokvi_Q86ku4mTctOVaQEdG7pl4xFl1lQ&s"
+    },
+    "description": "Explore the powerful features introduced in ES6 and how to use them in your projects.",
+    "publish_date": "2023-10-10",
+    "category": "JavaScript"
+  },
+  {
+    "id": 4,
+    "title": "Building Your First React App",
+    "cover_img": "https://miro.medium.com/v2/resize:fit:1400/1*98izATBctZjllh7UYJ0AHg.png",
+    "author": {
+      "name": "Bob Brown",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1ts8tVYUrmB5wTUWz4m87lHhZqsoLJJinw&s"
+    },
+    "description": "Step-by-step guide to building a simple React application from scratch.",
+    "publish_date": "2023-10-15",
+    "category": "React"
+  },
+  {
+    "id": 5,
+    "title": "Node.js for Beginners",
+    "cover_img": "https://www.freecodecamp.org/news/content/images/2022/11/What-is.png",
+    "author": {
+      "name": "Charlie Davis",
+      "img": "https://lawmagazine.bc.edu/wp-content/uploads/2024/02/Charlie-Davis-1024x719.jpg"
+    },
+    "description": "Learn the fundamentals of Node.js and how to build a basic server.",
+    "publish_date": "2023-10-20",
+    "category": "Node.js"
+  },
+  {
+    "id": 6,
+    "title": "Git and GitHub: A Beginner's Guide",
+    "cover_img": "https://media.datacamp.com/legacy/image/upload/v1651047046/image8_0e61d0dad8.png",
+    "author": {
+      "name": "Eva Green",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZqrqmGAPfRA_McHNfZrIYkUx2xwXOZWdHlA&s"
+    },
+    "description": "Understand the basics of version control with Git and how to use GitHub effectively.",
+    "publish_date": "2023-10-25",
+    "category": "Git"
+  },
+  {
+    "id": 7,
+    "title": "Advanced CSS Animations",
+    "cover_img": "https://i.ytimg.com/vi/XwabNxIv21o/maxresdefault.jpg",
+    "author": {
+      "name": "Frank White",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUN1QuRy-6As9Hy0AqXU_S-ra4XRSlYKPFg&s"
+    },
+    "description": "Create stunning animations using advanced CSS techniques.",
+    "publish_date": "2023-10-30",
+    "category": "CSS"
+  },
+  {
+    "id": 8,
+    "title": "JavaScript Design Patterns",
+    "cover_img": "https://m.media-amazon.com/images/I/81LpyFBbo8L._SL1500_.jpg",
+    "author": {
+      "name": "Grace Lee",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOG7-p7Tpu0u7JAkPWESiwmMrItFEqdw-1Q&s"
+    },
+    "description": "Learn about common design patterns in JavaScript and how to implement them.",
+    "publish_date": "2023-11-01",
+    "category": "JavaScript"
+  },
+  {
+    "id": 9,
+    "title": "React Hooks Explained",
+    "cover_img": "https://i.ytimg.com/vi/LOH1l-MP_9k/maxresdefault.jpg",
+    "author": {
+      "name": "Henry Clark",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJrsjdrAQ0W_jXV4mMMbEGNyM0LMbNjVbVFQ&s"
+    },
+    "description": "A deep dive into React Hooks and how they simplify state management.",
+    "publish_date": "2023-11-05",
+    "category": "React"
+  },
+  {
+    "id": 10,
+    "title": "Building REST APIs with Node.js",
+    "cover_img": "https://bs-uploads.toptal.io/blackfish-uploads/components/open_graph_image/10227551/og_image/optimized/secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png",
+    "author": {
+      "name": "Ivy Adams",
+      "img": "https://cdn.prod.website-files.com/5ce38f918578a84e83d8fb46/62d9b09743bcc53f1e493e76_IMG_2376.jpeg"
+    },
+    "description": "Learn how to build RESTful APIs using Node.js and Express.",
+    "publish_date": "2023-11-10",
+    "category": "Node.js"
+  },
+  {
+    "id": 11,
+    "title": "Git Branching Strategies",
+    "cover_img": "https://infinum.com/handbook/resources/dotnet/git-flow.png",
+    "author": {
+      "name": "Jack Wilson",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy7y5bUbXM6L_dOSyL0C54Gi8s2APBErUxUA&s"
+    },
+    "description": "Explore different Git branching strategies for efficient collaboration.",
+    "publish_date": "2023-11-15",
+    "category": "Git"
+  },
+  {
+    "id": 12,
+    "title": "Responsive Web Design with Flexbox",
+    "cover_img": "https://www.innoraft.com/sites/default/files/styles/converted_to_webp/public/How%20to%20Create%20a%20Responsive%20Website%20Using%20Flexbox%20-%20Banner.webp",
+    "author": {
+      "name": "Karen Harris",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsJ_YRofuQZEIK54eK_-h92jCPC2RAg7X1ew&s"
+    },
+    "description": "Master the art of responsive web design using CSS Flexbox.",
+    "publish_date": "2023-11-20",
+    "category": "CSS"
+  },
+  {
+    "id": 13,
+    "title": "JavaScript Promises and Async/Await",
+    "cover_img": "https://miro.medium.com/v2/resize:fit:1400/1*wdNsCBMAtWRkT7ppVEVf0Q.png",
+    "author": {
+      "name": "Leo Martinez",
+      "img": "https://image.tmdb.org/t/p/w500/NLky6KGoXQMn988PzFrEgP594x.jpg"
+    },
+    "description": "Understand JavaScript Promises and how to use async/await for asynchronous programming.",
+    "publish_date": "2023-11-25",
+    "category": "JavaScript"
+  },
+  {
+    "id": 14,
+    "title": "State Management in React with Redux",
+    "cover_img": "https://paulonteri.com/images/thoughts/react-redux/reduxdataflowdiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif",
+    "author": {
+      "name": "Mia Garcia",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHds-hZG3_Oj1AZv3qftTd20KG2s30_RBOOg&s"
+    },
+    "description": "Learn how to manage state in large React applications using Redux.",
+    "publish_date": "2023-11-30",
+    "category": "React"
+  },
+  {
+    "id": 15,
+    "title": "Deploying Node.js Applications",
+    "cover_img": "https://blog-assets.risingstack.com/2014/Sep/Continuous-deployment---New-Page.png",
+    "author": {
+      "name": "Noah Brown",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmapgSX13oMkqS4wDgdMs3RWDcVhhPSHLNg&s"
+    },
+    "description": "A guide to deploying Node.js applications to production environments.",
+    "publish_date": "2023-12-01",
+    "category": "Node.js"
+  },
+  {
+    "id": 16,
+    "title": "Git Workflow Best Practices",
+    "cover_img": "https://miro.medium.com/v2/resize:fit:1400/1*S4VJPf8Mrg3Gn5cR7JK62w.png",
+    "author": {
+      "name": "Olivia Davis",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIQjoEEMebs7XKkzbC2-DsZpJvlNrzl4OpiQ&s"
+    },
+    "description": "Best practices for managing Git workflows in team environments.",
+    "publish_date": "2023-12-05",
+    "category": "Git"
+  },
+  {
+    "id": 17,
+    "title": "CSS Variables: A Complete Guide",
+    "cover_img": "https://iotvnaw69daj.i.optimole.com/cb:mLvy.66914/w:auto/h:auto/q:90/f:best/https://wpshout.com/wp-content/uploads/2021/05/CSS-variables.jpeg",
+    "author": {
+      "name": "Paul Wilson",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsN8RTGM37-pPlvD7q-wIsRbcHYQvd-u7UGw&s"
+    },
+    "description": "Learn how to use CSS variables to create dynamic and maintainable styles.",
+    "publish_date": "2023-12-10",
+    "category": "CSS"
+  },
+  {
+    "id": 18,
+    "title": "JavaScript Event Handling",
+    "cover_img": "https://www.scaler.com/topics/images/event-and-event-handlers.webp",
+    "author": {
+      "name": "Quinn Evans",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfulBpFrAF-k_8n9OsKz4Lf-EPbGiWlBYCCA&s"
+    },
+    "description": "A guide to handling events in JavaScript for interactive web applications.",
+    "publish_date": "2023-12-15",
+    "category": "JavaScript"
+  },
+  {
+    "id": 19,
+    "title": "React Router: Navigation in React Apps",
+    "cover_img": "https://www.syncfusion.com/blogs/wp-content/uploads/2023/03/React-Router-A-Beginners-Guide-to-Essential-Navigation-Techniques.png",
+    "author": {
+      "name": "Ryan Taylor",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsy3PYmaS9S40rRaKTfz-ze-08PyBG1zkI0A&s"
+    },
+    "description": "Learn how to implement navigation in React applications using React Router.",
+    "publish_date": "2023-12-20",
+    "category": "React"
+  },
+  {
+    "id": 20,
+    "title": "Scaling Node.js Applications",
+    "cover_img": "https://miro.medium.com/v2/resize:fit:1400/1*8e4IN3_eAVuGEjy4H5rCZA.png",
+    "author": {
+      "name": "Sara Moore",
+      "img": "https://pbs.twimg.com/profile_images/1489540422372315141/b_3uC8rx_400x400.jpg"
+    },
+    "description": "Strategies for scaling Node.js applications to handle high traffic.",
+    "publish_date": "2023-12-25",
+    "category": "Node.js"
+  },
+  {
+    "id": 21,
+    "title": "Git Rebase vs Merge",
+    "cover_img": "https://media.licdn.com/dms/image/v2/D5612AQGyC_mc4CnaAw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1677768475192?e=2147483647&v=beta&t=cyx_sUcm55sa50XETWsqORrwE5oOTOacmNH2MuCX748",
+    "author": {
+      "name": "Tom Harris",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-wM56Fu6NXd6RsnBINsqgv15ec8CCsTl3g&s"
+    },
+    "description": "Understand the differences between Git rebase and merge and when to use each.",
+    "publish_date": "2023-12-30",
+    "category": "Git"
+  },
+  {
+    "id": 22,
+    "title": "CSS Flexbox vs Grid",
+    "cover_img": "https://media.licdn.com/dms/image/v2/D5612AQE_es4z5pMIZA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1714892538827?e=2147483647&v=beta&t=uWDxr1ZEK1CDDjf_e-qs8PcvCeGEhVXcoDhuV9Fe9SI",
+    "author": {
+      "name": "Uma Patel",
+      "img": "https://media.licdn.com/dms/image/v2/C5603AQEKPsp-SAWrfg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1649141784449?e=2147483647&v=beta&t=uzbM9RZCvR8Bgekv8-3Y5FPHoEGbogOnKm7PVKc7H3c"
+    },
+    "description": "Compare CSS Flexbox and Grid and learn when to use each layout model.",
+    "publish_date": "2024-01-01",
+    "category": "CSS"
+  },
+  {
+    "id": 23,
+    "title": "JavaScript Closures Explained",
+    "cover_img": "https://allma.si/blog/wp-content/uploads/2020/10/what-are-closures.png",
+    "author": {
+      "name": "Victor Lee",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzr-kTRvDwoqMCZFeW90w_IJTIuBEY9rskxw&s"
+    },
+    "description": "A detailed explanation of JavaScript closures and their practical uses.",
+    "publish_date": "2024-01-05",
+    "category": "JavaScript"
+  },
+  {
+    "id": 24,
+    "title": "React Context API",
+    "cover_img": "https://cdn.hashnode.com/res/hashnode/image/upload/v1705218542017/38535a64-cf30-4a10-82fb-72a3f325a086.png?auto=compress,format&format=webp",
+    "author": {
+      "name": "Wendy Adams",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeYtaRGINMNUPRtHHrVEcGljpVrSfteuAalA&s"
+    },
+    "description": "Learn how to use the React Context API for state management.",
+    "publish_date": "2024-01-10",
+    "category": "React"
+  },
+  {
+    "id": 25,
+    "title": "Node.js Security Best Practices",
+    "cover_img": "https://www.tatvasoft.com/blog/wp-content/uploads/2021/02/Node-js-Best-Practices-and-Security-1280x720.jpg",
+    "author": {
+      "name": "Xander Brown",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVSB8umkyfs-KkpNxIPj7nsnxbe7gw8HB84A&s"
+    },
+    "description": "Best practices for securing Node.js applications against common vulnerabilities.",
+    "publish_date": "2024-01-15",
+    "category": "Node.js"
+  },
+  {
+    "id": 26,
+    "title": "Git Hooks: Automating Workflows",
+    "cover_img": "https://miro.medium.com/v2/resize:fit:1400/1*7JkxIYs7AixUtFs_Ctj45Q.jpeg",
+    "author": {
+      "name": "Yara Green",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVj04uOFoo7yEnxgYYMLhHbr7q5LL0Yc9bJg&s"
+    },
+    "description": "Learn how to use Git hooks to automate tasks in your development workflow.",
+    "publish_date": "2024-01-20",
+    "category": "Git"
+  },
+  {
+    "id": 27,
+    "title": "CSS Preprocessors: Sass vs Less",
+    "cover_img": "https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6apfyq0shgztfacjdg0.png",
+    "author": {
+      "name": "Zack Evans",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-dXT88mVY-obR1Uu2bILpns7nqrgH-ux7jA&s"
+    },
+    "description": "Compare Sass and Less, two popular CSS preprocessors, and their features.",
+    "publish_date": "2024-01-25",
+    "category": "CSS"
+  },
+  {
+    "id": 28,
+    "title": "JavaScript Modules: ES6 and Beyond",
+    "cover_img": "https://media.assettype.com/analyticsinsight/2024-08-07/dtsnqxxn/ES6-and-Beyond-New-Features-in-Modern-JavaScript.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+    "author": {
+      "name": "Anna White",
+      "img": "https://www.nlc.org/wp-content/uploads/2019/02/Anna-White-small.jpg"
+    },
+    "description": "Learn about JavaScript modules and how to organize your code effectively.",
+    "publish_date": "2024-01-30",
+    "category": "JavaScript"
+  },
+  {
+    "id": 29,
+    "title": "React Performance Optimization",
+    "cover_img": "https://miro.medium.com/v2/resize:fit:1400/1*PRSCPASXfR-Kc4sQ_0ZSKw.jpeg",
+    "author": {
+      "name": "Ben Clark",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wqArqNZaYuXhh4ubW3F6k1Bp7c_PjLs5FQ&s"
+    },
+    "description": "Tips and techniques for optimizing the performance of React applications.",
+    "publish_date": "2024-02-01",
+    "category": "React"
+  },
+  {
+    "id": 30,
+    "title": "Node.js Debugging Techniques",
+    "cover_img": "https://qalbit.com/blog/wp-content/uploads/2023/03/Debugging-Node.js-Blog-post.webp",
+    "author": {
+      "name": "Cara Davis",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_W6pcDKrbb9kjuO7JFKgMTCQYB49fqdKhg&s"
+    },
+    "description": "Learn how to debug Node.js applications effectively using various tools and techniques.",
+    "publish_date": "2024-02-05",
+    "category": "Node.js"
+  }
+]
